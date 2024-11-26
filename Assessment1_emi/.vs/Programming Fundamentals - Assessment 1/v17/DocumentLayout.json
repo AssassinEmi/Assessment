@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\",
+  "WorkspaceRootPath": "C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|solutionrelative:task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|solutionrelative:task-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87AB1766-04C1-3134-9201-39C29C2143C3}|task-3\\Task3.vcxproj|C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87AB1766-04C1-3134-9201-39C29C2143C3}|task-3\\Task3.vcxproj|solutionrelative:task-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|solutionrelative:task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|solutionrelative:task-6\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-4\\main.cpp",
-              "RelativeDocumentMoniker": "task-4\\main.cpp",
-              "ToolTip": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-4\\main.cpp",
-              "RelativeToolTip": "task-4\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.cpp",
+              "RelativeDocumentMoniker": "task-6\\main.cpp",
+              "ToolTip": "C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.cpp",
+              "RelativeToolTip": "task-6\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T22:40:08.039Z",
+              "WhenOpened": "2024-11-26T21:25:44.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-3\\main.cpp",
-              "RelativeDocumentMoniker": "task-3\\main.cpp",
-              "ToolTip": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-3\\main.cpp",
-              "RelativeToolTip": "task-3\\main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T22:27:09.982Z",
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.h",
+              "RelativeDocumentMoniker": "task-6\\main.h",
+              "ToolTip": "C:\\Users\\m018410o\\Documents\\GitHub\\Assessment\\Assessment1_emi\\task-6\\main.h",
+              "RelativeToolTip": "task-6\\main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T21:25:26.802Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-2\\main.cpp",
-              "RelativeDocumentMoniker": "task-2\\main.cpp",
-              "ToolTip": "C:\\Users\\m018410o\\Documents\\Assessment1_emi\\task-2\\main.cpp",
-              "RelativeToolTip": "task-2\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T22:06:40.843Z"
             }
           ]
         }
